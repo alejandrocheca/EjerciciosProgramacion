@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AdivinarNumero {
     public static void main(String[] args) {
-        int numeroSecreto = 42;
+        int numeroSecreto = 50;
         int intentos = 0;
         int intento;
 

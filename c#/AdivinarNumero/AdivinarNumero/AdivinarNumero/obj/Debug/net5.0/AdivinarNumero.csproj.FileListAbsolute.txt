@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\ref\AdivinarNumero.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\net5.0\AdivinarNumero.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\ref\AdivinarNumero.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\net5.0\AdivinarNumero.genruntimeconfig.cache

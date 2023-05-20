@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\ref\Matemáticas.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\bin\Debug\net5.0\Matemáticas.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\ref\Matemáticas.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Matematicas\Matemáticas\Matemáticas\obj\Debug\net5.0\Matemáticas.genruntimeconfig.cache

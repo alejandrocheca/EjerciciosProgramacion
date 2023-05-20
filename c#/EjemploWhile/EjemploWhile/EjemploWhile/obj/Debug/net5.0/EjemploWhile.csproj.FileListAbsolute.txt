@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\ref\EjemploWhile.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\bin\Debug\net5.0\EjemploWhile.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\ref\EjemploWhile.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhile\EjemploWhile\EjemploWhile\obj\Debug\net5.0\EjemploWhile.genruntimeconfig.cache

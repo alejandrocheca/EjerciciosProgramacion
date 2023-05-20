@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\ref\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\bin\Debug\net5.0\Burbuja.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\ref\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\Burbuja\Burbuja\obj\Debug\net5.0\Burbuja.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\ref\BurbujaAvanzado.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\bin\Debug\net5.0\BurbujaAvanzado.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\ref\BurbujaAvanzado.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Burbuja\BurbujaAvanzado\BurbujaAvanzado\obj\Debug\net5.0\BurbujaAvanzado.genruntimeconfig.cache

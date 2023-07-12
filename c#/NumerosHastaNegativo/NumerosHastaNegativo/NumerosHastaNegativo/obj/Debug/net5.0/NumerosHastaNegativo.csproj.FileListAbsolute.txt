@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\ref\NumerosHastaNegativo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\bin\Debug\net5.0\NumerosHastaNegativo.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\ref\NumerosHastaNegativo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosHastaNegativo\NumerosHastaNegativo\NumerosHastaNegativo\obj\Debug\net5.0\NumerosHastaNegativo.genruntimeconfig.cache

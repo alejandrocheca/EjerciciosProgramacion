@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\ref\EjemploWhileArray.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\bin\Debug\net5.0\EjemploWhileArray.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\ref\EjemploWhileArray.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\EjemploWhileArray\EjemploWhileArray\EjemploWhileArray\obj\Debug\net5.0\EjemploWhileArray.genruntimeconfig.cache

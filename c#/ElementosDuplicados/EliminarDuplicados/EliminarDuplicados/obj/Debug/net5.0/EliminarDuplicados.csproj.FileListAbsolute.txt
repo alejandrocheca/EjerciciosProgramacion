@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\ref\EliminarDuplicados.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\bin\Debug\net5.0\EliminarDuplicados.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\ref\EliminarDuplicados.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ElementosDuplicados\EliminarDuplicados\EliminarDuplicados\obj\Debug\net5.0\EliminarDuplicados.genruntimeconfig.cache

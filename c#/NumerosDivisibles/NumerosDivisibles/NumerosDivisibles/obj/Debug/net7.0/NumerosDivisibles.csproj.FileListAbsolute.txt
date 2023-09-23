@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\bin\Debug\net7.0\NumerosDivisibles.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\bin\Debug\net7.0\NumerosDivisibles.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\bin\Debug\net7.0\NumerosDivisibles.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\bin\Debug\net7.0\NumerosDivisibles.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\bin\Debug\net7.0\NumerosDivisibles.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\refint\NumerosDivisibles.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\NumerosDivisibles.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\NumerosDivisibles\NumerosDivisibles\NumerosDivisibles\obj\Debug\net7.0\ref\NumerosDivisibles.dll

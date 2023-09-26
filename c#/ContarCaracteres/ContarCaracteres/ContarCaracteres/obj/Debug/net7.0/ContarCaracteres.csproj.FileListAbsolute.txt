@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\bin\Debug\net7.0\ContarCaracteres.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\bin\Debug\net7.0\ContarCaracteres.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\bin\Debug\net7.0\ContarCaracteres.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\bin\Debug\net7.0\ContarCaracteres.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\bin\Debug\net7.0\ContarCaracteres.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\refint\ContarCaracteres.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ContarCaracteres.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ContarCaracteres\ContarCaracteres\ContarCaracteres\obj\Debug\net7.0\ref\ContarCaracteres.dll

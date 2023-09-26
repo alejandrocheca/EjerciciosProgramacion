@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ContarCaracteres",
     "\\NumerosDivisibles"
   ],
-  "SelectedNode": "\\NumerosDivisibles",
+  "SelectedNode": "\\ContarCaracteres",
   "PreviewInSolutionExplorer": false
 }

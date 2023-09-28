@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\bin\Debug\net7.0\TextoDelReves.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\bin\Debug\net7.0\TextoDelReves.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\bin\Debug\net7.0\TextoDelReves.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\bin\Debug\net7.0\TextoDelReves.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\bin\Debug\net7.0\TextoDelReves.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\refint\TextoDelReves.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\TextoDelReves.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoDelReves\TextoDelReves\TextoDelReves\obj\Debug\net7.0\ref\TextoDelReves.dll

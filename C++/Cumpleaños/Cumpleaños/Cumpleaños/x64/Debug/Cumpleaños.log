@@ -1,0 +1,2 @@
+﻿  Cumpleaños.cpp
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\C++\Cumpleaños\Cumpleaños\Cumpleaños\Cumpleaños.cpp(20,44): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

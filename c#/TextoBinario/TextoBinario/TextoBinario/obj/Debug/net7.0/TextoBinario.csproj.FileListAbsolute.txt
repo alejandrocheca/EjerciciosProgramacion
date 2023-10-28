@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\bin\Debug\net7.0\TextoBinario.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\bin\Debug\net7.0\TextoBinario.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\bin\Debug\net7.0\TextoBinario.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\bin\Debug\net7.0\TextoBinario.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\bin\Debug\net7.0\TextoBinario.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\refint\TextoBinario.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\TextoBinario.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\TextoBinario\TextoBinario\TextoBinario\obj\Debug\net7.0\ref\TextoBinario.dll

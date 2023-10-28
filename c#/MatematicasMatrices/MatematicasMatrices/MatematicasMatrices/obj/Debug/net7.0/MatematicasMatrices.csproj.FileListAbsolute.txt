@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\bin\Debug\net7.0\MatematicasMatrices.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\bin\Debug\net7.0\MatematicasMatrices.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\bin\Debug\net7.0\MatematicasMatrices.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\bin\Debug\net7.0\MatematicasMatrices.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\bin\Debug\net7.0\MatematicasMatrices.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\refint\MatematicasMatrices.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\MatematicasMatrices.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\MatematicasMatrices\MatematicasMatrices\MatematicasMatrices\obj\Debug\net7.0\ref\MatematicasMatrices.dll

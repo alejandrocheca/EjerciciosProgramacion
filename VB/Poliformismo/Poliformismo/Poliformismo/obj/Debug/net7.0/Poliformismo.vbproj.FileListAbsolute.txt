@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\bin\Debug\net7.0\Poliformismo.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\bin\Debug\net7.0\Poliformismo.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\bin\Debug\net7.0\Poliformismo.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\bin\Debug\net7.0\Poliformismo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\bin\Debug\net7.0\Poliformismo.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.AssemblyInfo.vb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\refint\Poliformismo.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\Poliformismo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Poliformismo\Poliformismo\Poliformismo\obj\Debug\net7.0\ref\Poliformismo.dll

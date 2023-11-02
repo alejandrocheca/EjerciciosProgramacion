@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.AssemblyInfo.vb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\bin\Debug\net7.0\Cumpleaños.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\bin\Debug\net7.0\Cumpleaños.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\bin\Debug\net7.0\Cumpleaños.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\bin\Debug\net7.0\Cumpleaños.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\bin\Debug\net7.0\Cumpleaños.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\refint\Cumpleaños.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\Cumpleaños.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Cumpleaños\Cumpleaños\Cumpleaños\obj\Debug\net7.0\ref\Cumpleaños.dll

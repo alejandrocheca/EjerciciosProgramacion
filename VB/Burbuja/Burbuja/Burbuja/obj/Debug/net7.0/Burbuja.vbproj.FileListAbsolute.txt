@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\bin\Debug\net7.0\Burbuja.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\bin\Debug\net7.0\Burbuja.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\bin\Debug\net7.0\Burbuja.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\bin\Debug\net7.0\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\bin\Debug\net7.0\Burbuja.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.AssemblyInfo.vb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\refint\Burbuja.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\Burbuja.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\VB\Burbuja\Burbuja\Burbuja\obj\Debug\net7.0\ref\Burbuja.dll

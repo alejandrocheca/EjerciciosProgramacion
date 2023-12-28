@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net7.0\ExpresionesRegulares.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net7.0\ExpresionesRegulares.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net7.0\ExpresionesRegulares.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net7.0\ExpresionesRegulares.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net7.0\ExpresionesRegulares.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\refint\ExpresionesRegulares.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ExpresionesRegulares.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net7.0\ref\ExpresionesRegulares.dll

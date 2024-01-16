@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FirUgEHtwlndralyMcffKMlOj8z4d9vjkDI+53gzSuJUEayfkec26CgPDAzniAUC/3X4BQGKPeBPBRsa+SfvuA==",
+  "dgSpecHash": "CPNbvmM7iVCLfAiC+dxiiuvxeOOe9YsSqRGRRl4yVxfmocJIXktJr4mNuBBpTauQZhNVgULITVs9Q4wYZfs9wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\Burbuja\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

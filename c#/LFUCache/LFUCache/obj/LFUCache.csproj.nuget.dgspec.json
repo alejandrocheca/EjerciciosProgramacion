@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\LFUCache\\LFUCache\\LFUCache.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\LFUCache\\LFUCache\\LFUCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj",
-        "projectName": "BurbujaAvanzado",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\BurbujaAvanzado.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\LFUCache\\LFUCache\\LFUCache.csproj",
+        "projectName": "LFUCache",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\LFUCache\\LFUCache\\LFUCache.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\BurbujaAvanzado\\BurbujaAvanzado\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\EjerciciosProgramacion\\EjerciciosProgramacion\\c#\\LFUCache\\LFUCache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

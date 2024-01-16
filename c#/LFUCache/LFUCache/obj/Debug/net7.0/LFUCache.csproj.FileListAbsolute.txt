@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\bin\Debug\net7.0\LFUCache.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\bin\Debug\net7.0\LFUCache.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\bin\Debug\net7.0\LFUCache.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\bin\Debug\net7.0\LFUCache.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\bin\Debug\net7.0\LFUCache.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\refint\LFUCache.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\LFUCache.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\LFUCache\LFUCache\obj\Debug\net7.0\ref\LFUCache.dll

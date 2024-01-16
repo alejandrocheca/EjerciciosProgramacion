@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\bin\Debug\net7.0\Lexicographically.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\bin\Debug\net7.0\Lexicographically.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\bin\Debug\net7.0\Lexicographically.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\bin\Debug\net7.0\Lexicographically.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\bin\Debug\net7.0\Lexicographically.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\refint\Lexicographically.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\Lexicographically.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\Lexicographically\Lexicographically\Lexicographically\obj\Debug\net7.0\ref\Lexicographically.dll

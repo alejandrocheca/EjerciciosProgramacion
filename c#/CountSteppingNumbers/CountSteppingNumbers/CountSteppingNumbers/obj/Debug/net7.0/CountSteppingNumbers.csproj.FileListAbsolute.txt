@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\bin\Debug\net7.0\CountSteppingNumbers.exe
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\bin\Debug\net7.0\CountSteppingNumbers.deps.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\bin\Debug\net7.0\CountSteppingNumbers.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\bin\Debug\net7.0\CountSteppingNumbers.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\bin\Debug\net7.0\CountSteppingNumbers.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\refint\CountSteppingNumbers.dll
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.pdb
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\CountSteppingNumbers.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EjerciciosProgramacion\EjerciciosProgramacion\c#\CountSteppingNumbers\CountSteppingNumbers\CountSteppingNumbers\obj\Debug\net7.0\ref\CountSteppingNumbers.dll

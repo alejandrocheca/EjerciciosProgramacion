@@ -1,48 +1,48 @@
-// Definición de la clase Persona
-class Persona {
-    // Atributos
+public class Persona {
     private String nombre;
     private int edad;
     private String genero;
+    private String direccion;
+    private String telefono;
+    private String email;
 
-    // Constructor
-    public Persona(String nombre, int edad, String genero) {
+    public Persona(String nombre, int edad, String genero, String direccion, String telefono, String email) {
         this.nombre = nombre;
         this.edad = edad;
         this.genero = genero;
+        this.direccion = direccion;
+        this.telefono = telefono;
+        this.email = email;
     }
 
-    // Métodos para obtener y establecer los atributos
-    public String getNombre() {
-        return nombre;
-    }
+    public String getNombre() { return nombre; }
+    public void setNombre(String nombre) { this.nombre = nombre; }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
+    public int getEdad() { return edad; }
+    public void setEdad(int edad) { this.edad = edad; }
 
-    public int getEdad() {
-        return edad;
-    }
+    public String getGenero() { return genero; }
+    public void setGenero(String genero) { this.genero = genero; }
 
-    public void setEdad(int edad) {
-        this.edad = edad;
-    }
+    public String getDireccion() { return direccion; }
+    public void setDireccion(String direccion) { this.direccion = direccion; }
 
-    public String getGenero() {
-        return genero;
-    }
+    public String getTelefono() { return telefono; }
+    public void setTelefono(String telefono) { this.telefono = telefono; }
 
-    public void setGenero(String genero) {
-        this.genero = genero;
-    }
+    public String getEmail() { return email; }
+    public void setEmail(String email) { this.email = email; }
 
-    // Método para imprimir la información de la persona
+    public boolean esMayorDeEdad() { return edad >= 18; }
+
     public void imprimirInformacion() {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Género: " + genero);
+        System.out.println("Dirección: " + direccion);
+        System.out.println("Teléfono: " + telefono);
+        System.out.println("Email: " + email);
     }
+
+    public boolean esAdultoMayor() { return edad > 65; }
 }
-
-
